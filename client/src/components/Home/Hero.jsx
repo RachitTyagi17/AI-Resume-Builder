@@ -87,7 +87,7 @@ const Hero = () => {
                         Land your Dream Job with with <span className=" bg-gradient-to-r from-green-700 to-green-600 bg-clip-text text-transparent text-nowrap">AI-powered </span> Resumes.
                     </h1>
 
-                    <p className="max-w-md text-center text-base my-7">Explore a growing library of over 320+ beautifully crafted, customizable components.</p>
+                    <p className="max-w-md text-center text-base my-7">Create Edit and Download Professional resumes with AI-Powered assistance</p>
 
                     {/* CTA Buttons */}
                     <div className="flex items-center gap-4 ">
