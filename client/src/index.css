@@ -6,6 +6,6 @@
 
 @layer base {
     button{
-        @apply cursor-pointer;
+        cursor: pointer;
     }
 }
