@@ -1,5 +1,5 @@
 import React from "react";
-import Title from "./Title";
+import Title from  "../components/Home/Title"
 import { BookUserIcon } from "lucide-react";
 
 const Testimonial = () => {
